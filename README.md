@@ -1,5 +1,7 @@
 # SVHNClassifier
 
+THIS CODE IS THE PROPERTY OF https://github.com/potterhsu/. It has simply been updated from Python 2 to Python 3.
+
 A TensorFlow implementation of [Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks](http://arxiv.org/pdf/1312.6082.pdf) 
 
 
