@@ -51,8 +51,8 @@ A TensorFlow implementation of [Multi-digit Number Recognition from Street View 
 1. Clone the source code
 
     ```
-    $ git clone https://github.com/potterhsu/SVHNClassifier
-    $ cd SVHNClassifier
+    $ git clone https://github.com/TheArchitect326/SVHN-Tensorflow
+    $ cd SVHN-Tensorflow
     ```
 
 2. Download [SVHN Dataset](http://ufldl.stanford.edu/housenumbers/) format 1
